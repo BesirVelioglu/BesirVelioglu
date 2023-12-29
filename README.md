@@ -1,25 +1,14 @@
 
 # 💫 About Me:
-Hello! I'm Muhammed Beşir Velioğlu, a software engineer working in machine learning, Swift mobile programming and web development.
-I am a candidate.
-  With the work I do in the evolving world of technology, I can both improve myself individually and contribute to a broader scale.
-I focus on providing.
+Hello! I'm Muhammed Beşir Velioğlu, a software engineering candidate specializing in machine learning, image processing, swift mobile programming. As technology examples proliferate worldwide, I'm focused on both personal evolution and broader dissemination.
 
-  My passion for machine learning is evident through my data analysis and modeling skills. Learning algorithms and deep learning
-Solving complex problems using the power of techniques motivates me. Obtaining insights by analyzing data sets,
-Model training and optimization processes have always excited me. My skills in data mining and pattern recognition
-Thanks to it, I look for ways to make informed decisions by extracting meaningful information from data sets.
+As the leader of the Kamix Karte team we formed in university, I'm currently leading a team of five in an unmanned aerial vehicle project in the agriculture technology domain. I actively contribute to the team's image processing tasks.
 
-  My knowledge and experience in Swift mobile programming will help me achieve my goals of developing creative and user-friendly mobile applications.
-It helps. Thanks to my advanced iOS application development skills, I can create interactive and interactive applications that will make users' daily lives easier.
-I aim to design performance-oriented applications.
+My passion lies in machine programming, artificial intelligence, expertise development, data analysis, and hardware features. Solving complex problems using the power of learning processes and deep learning techniques motivates me. I find excitement in analyzing datasets to gain insights, as well as in model training and components.
 
-  Web development is a playground of unlimited possibilities for me. Designing interactive and user-oriented web applications,
-Maximizing the experience and shaping projects with modern web technologies is a great source of inspiration for me. HTML, CSS,
-By working with C#, Java and different web frameworks, I implement my web projects in a creative and impressive way.
+My knowledge and experience in Swift mobile programming contribute to achieving my goal of developing creative and user-friendly mobile applications. With advanced iOS app development skills, I aim to design interactive and performance-focused applications that simplify users' daily lives.
 
-  My interest in technology and my desire to constantly learn encourage me to closely follow new trends and developments. Also in the team
-I stand out with my collaboration and communication skills, enabling me to work efficiently and effectively on projects.
+My interest in technology and my continuous desire to learn encourage me to stay updated on new trends. Additionally, my collaboration and communication skills within a team are crucial for delivering efficient and effective designs and projects.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/besirvelioglu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/besirvelioglu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-besir-velioglu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Mbesirvelioglu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BesirVelioglu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@BesirVelioglu) 
