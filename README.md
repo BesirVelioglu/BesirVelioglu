@@ -6,8 +6,6 @@ As the leader of the Kamix Karte team we formed in university, I'm currently lea
 
 My passion lies in machine programming, artificial intelligence, expertise development, data analysis, and hardware features. Solving complex problems using the power of learning processes and deep learning techniques motivates me. I find excitement in analyzing datasets to gain insights, as well as in model training and components.
 
-My knowledge and experience in Swift mobile programming contribute to achieving my goal of developing creative and user-friendly mobile applications. With advanced iOS app development skills, I aim to design interactive and performance-focused applications that simplify users' daily lives.
-
 My interest in technology and my continuous desire to learn encourage me to stay updated on new trends. Additionally, my collaboration and communication skills within a team are crucial for delivering efficient and effective designs and projects.
 
 ## 🌐 Socials:
