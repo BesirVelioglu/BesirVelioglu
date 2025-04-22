@@ -2,7 +2,6 @@
 # 💫 About Me:
 Hello! I'm Muhammed Beşir Velioğlu, a software engineering candidate specializing in machine learning, image processing, deep learning and artifical intelligence. As technology examples proliferate worldwide, I'm focused on both personal evolution and broader dissemination.
 
-As the leader of the Kamix Karte team we formed in university, I'm currently leading a team of five in an unmanned aerial vehicle project in the agriculture technology domain. I actively contribute to the team's image processing tasks.
 
 My passion lies in machine programming, artificial intelligence, expertise development, and hardware features. Solving complex problems using the power of learning processes and deep learning techniques motivates me. I find excitement in analyzing datasets to gain insights, as well as in model training and components.
 
